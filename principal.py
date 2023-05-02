@@ -2,7 +2,6 @@
 
 import psycopg2
 from tabulate import tabulate
-import datetime
 
 ###         Conexão Banco           ###
 dbname='database_galeria_arte'    # Nome Banco
