@@ -4,9 +4,9 @@ import psycopg2
 from tabulate import tabulate
 
 ###         Conexão Banco           ###
-dbname='database_galeria_arte'    # Nome Banco
-user='postgres'             # Usuário
-password='1234'             # Senha
+dbname='database_galeria_arte'      # Nome Banco
+user='postgres'                     # Usuário
+password='1234'                     # Senha
 conn = psycopg2.connect(f"dbname={dbname} user={user} password={password}")
 cursor = conn.cursor()
 ###         ###         ###
