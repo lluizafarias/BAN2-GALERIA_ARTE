@@ -21,7 +21,5 @@ O banco de dados apresentado é voltado para o gerenciamento de informações de
 2.	Escolha o nome `database_galeria_arte` para o banco de dados e salve.
 3.	Clique com o botão direito no banco criado e selecione `Query Tool`.
 4.	Execute a query disponível no repositório como `database_galeria_arte.sql`.
-5.	Altere o usuário e senha de acesso ao banco no arquivo `principal.py`.
-![image](https://user-images.githubusercontent.com/32268716/235697805-f047a63c-7863-4e56-98be-1c709900ada6.png)
-
+5.	Altere o usuário e senha de acesso ao banco no arquivo `principal.py` (Linhas 8 e 9).
 6.  Execute o arquivo `principal.py`.
